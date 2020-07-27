@@ -7,7 +7,7 @@ public class TestBitOP {
 
 	public static void main(String[] args) {
 		// AND運算
-		System.out.println(0 & 1);
+		System.out.println(0 & 1); //123
 		System.out.println(0 & 0);
 		System.out.println(1 & 0);
 		System.out.println(1 & 1);
